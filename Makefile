@@ -8,7 +8,6 @@ REQ = util
 COM =\
 	components/battery\
 	components/datetime\
-	components/volume\
 	components/wifi
 
 all: slstatus
