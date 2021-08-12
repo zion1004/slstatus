@@ -1,5 +1,5 @@
 # slstatus
  My fork of slstatus (suckless's suckless status). 
 
-# Note
+## Note
 Code is in the master branch
