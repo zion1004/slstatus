@@ -53,6 +53,7 @@
 			{ "Charging",    "+" },
 			{ "Discharging", "-" },
 			{ "Full",        "o" },
+			{ "Unknown",     "=" },
 		};
 		size_t i;
 		char path[PATH_MAX], state[12];
