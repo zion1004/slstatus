@@ -1,2 +1,5 @@
 # slstatus
- My fork of slstatus (suckless's suckless status) with patches for my convenience. 
+ My fork of slstatus (suckless's suckless status). 
+
+# Note
+Code is in the master branch
