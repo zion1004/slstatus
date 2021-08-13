@@ -69,5 +69,5 @@ static const struct arg args[] = {
 	{ battery_perc, "%s%% ]",           "BAT0" },
 	{ wifi_essid, " [ 网: %5.5s",           "wlp1s0" },
 	{ wifi_perc, " %3.3s ]",           "wlp1s0" },
-	{ datetime, " [ %s ] ",           "%a, %m/%e ㅣ %I:%M %p" },
+	{ datetime, " [ %s ] ",           "%I:%M %p" },
 };
